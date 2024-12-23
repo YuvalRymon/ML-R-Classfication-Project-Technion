@@ -59,7 +59,8 @@ Selected due to:
 3. mtry optimization
   - Tests: 28 (sqrt(p)), 139 (p/6), 167 (p/5), 209 (p/4)
   - CV shows best value: 167
- 
+ ![image](https://github.com/user-attachments/assets/df01c86a-4029-4e2d-99b3-d0b4a0519f10)
+
 
 ### Feature Engineering
 Addressing poor shirt (class 6) classification:
