@@ -1,4 +1,6 @@
 # Fashion MNIST Image Classification Project
+![image](https://github.com/user-attachments/assets/cbc1e475-57ac-4a29-99bc-3b38aa5e09bd)
+
 ## 1. Dataset
 - 60,000 28x28 grayscale images (784 pixels per image)
 - 10 balanced fashion classes (~6000 each): 0: T-shirt/top, 1: Trouser, 2: Pullover, 3: Dress, 4: Coat, 5: Sandal, 6: Shirt, 7: Sneaker, 8: Bag, 9: Ankle boot
